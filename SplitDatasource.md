@@ -225,4 +225,3 @@ public class TestOnClassService {
         throw new Exception("报错事务回滚。");
     }
 }
-```
